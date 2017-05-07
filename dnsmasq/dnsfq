@@ -1,4 +1,4 @@
-## 2017-04-24 22:07:04
+## 2017-05-07 10:34:17
 ## https://github.com/sy618/hosts
 # This work is licensed under a CC BY 4.0 International License.
 # https://creativecommons.org/licenses/by/4.0/
@@ -17,7 +17,7 @@ address=/support.box.com/104.218.203.34
 address=/box.net/107.152.25.193
 
 ## collector
-address=/d3c33hcgiwev3.cloudfront.net/52.222.234.152
+address=/d3c33hcgiwev3.cloudfront.net/54.192.151.157
 
 ## Disqus
 address=/disqus.com/151.101.192.134
@@ -85,12 +85,6 @@ address=/appspot.com/61.91.161.217
 address=/blogger.com/219.76.4.70
 address=/blogspot.com/219.76.4.70
 address=/chromium.org/219.76.4.70
-address=/clients1.google.com/61.91.161.217
-address=/clients2.google.com/61.91.161.217
-address=/clients3.google.com/61.91.161.217
-address=/clients4.google.com/61.91.161.217
-address=/clients5.google.com/61.91.161.217
-address=/clients6.google.com/61.91.161.217
 address=/com.google/219.76.4.70
 address=/dartlang.org/219.76.4.70
 address=/dl.google.com/203.208.43.105
@@ -263,6 +257,7 @@ address=/yahooapis.jp/183.79.249.124
 address=/yimg.com/119.161.14.18
 address=/yimg.jp/182.22.31.252
 
+
 ##igfw.net
  
 address=/www.igfw.net/162.244.93.227 
@@ -338,3 +333,4 @@ address=/www.torporject.org/38.229.72.16
 address=/www.torporject.org/243.185.187.39
 address=/www.torporject.org/154.35.132.70 
 address=/www.torporject.org/138.201.14.197
+
