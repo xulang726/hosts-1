@@ -1,8 +1,8 @@
-## 2017-05-08 22:21:05
+## 2017-05-09 22:52:43
 ## by sy618
 ## https://github.com/sy618/hosts
-# This work is licensed under a CC BY 4.0 International License.
-# https://creativecommons.org/licenses/by/4.0/
+# This work is licensed under a CC BY-NC 4.0 International License.
+# https://creativecommons.org/licenses/by-nc/4.0/deed.zh
 
 ## Apkpure
 address=/apkpure.com/104.20.83.194
@@ -334,4 +334,8 @@ address=/www.torporject.org/38.229.72.16
 address=/www.torporject.org/243.185.187.39
 address=/www.torporject.org/154.35.132.70 
 address=/www.torporject.org/138.201.14.197
+
+##cnbc
+address=/www.cnbc.com/199.182.102.13
+address=/www.cnbc.com/199.182.102.14
 
