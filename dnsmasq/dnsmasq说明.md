@@ -24,3 +24,9 @@
 ## sh文件夹 是[【华硕老毛子固件】全自动脚本](https://github.com/sy618/hosts/tree/master/dnsmasq/sh)
 
 
+## 由hosts 转换 dnsmasq格式的配置：
+
+awk '{if ($1 ~ /[0-9]/) {print "address=/"$2"/"$1}   else {print $0}} ' hosts >hosts2dnsmasq.conf 
+service dnsmasq restart
+windows 上可以在gitbash里面运行以上脚本；
+linux   上最好先用dos2unix hosts处理一下，再运行以上脚本；
