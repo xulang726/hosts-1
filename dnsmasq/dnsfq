@@ -460,13 +460,14 @@ address=/program-think.blogspot.com/216.58.223.1
 
 ##tor
 
-address=/www.torporject.org/89.45.235.21  
-address=/www.torporject.org/86.59.30.40   
-address=/www.torporject.org/82.195.75.101 
-address=/www.torporject.org/38.229.72.16  
-address=/www.torporject.org/243.185.187.39
-address=/www.torporject.org/154.35.132.70 
-address=/www.torporject.org/138.201.14.197
+address=/www.torproject.org/89.45.235.21  
+address=/www.torproject.org/86.59.30.40   
+address=/www.torproject.org/82.195.75.101 
+address=/www.torproject.org/38.229.72.16  
+address=/www.torproject.org/243.185.187.39
+address=/www.torproject.org/154.35.132.70 
+address=/www.torproject.org/138.201.14.197
+address=/blog.torproject.org/23.185.0.2
 
 ##cnbc
 address=/www.cnbc.com/199.182.102.13
